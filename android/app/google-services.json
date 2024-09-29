@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112742949548",
+    "project_id": "invoice-5f474",
+    "storage_bucket": "invoice-5f474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112742949548:android:19da57c9697db0b1697509",
+        "android_client_info": {
+          "package_name": "com.example.invoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRlf7AW515c6Apyw4i9Bdlfde_0hDFpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
